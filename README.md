@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poseidon-micro&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <img src="[https://komarev.com/ghpvc/?username=poseidon-micro&style=plastic&color=blueviolet](https://github.com/danielaborda/pngs/blob/main/MITAD1.png)" alt="Profile Views"/>
 </p>
 
 <div align="center">
@@ -124,11 +124,11 @@
 
 </details>
 
-<div align="center"><img src="https://e7.pngegg.com/pngimages/745/927/png-clipart-trident-of-poseidon-trident-of-poseidon-zeus-greek-mythology-others-blue-computer-wallpaper.png" width="120" style="transform:rotate(180deg)" alt="Tridente Poseidón - Bottom"/></div>
+<div align="center"><img src="[https://e7.pngegg.com/pngimages/745/927/png-clipart-trident-of-poseidon-trident-of-poseidon-zeus-greek-mythology-others-blue-computer-wallpaper.png](https://github.com/danielaborda/pngs/blob/main/MITAD%202.png)" width="120" style="transform:rotate(180deg)" alt="Tridente Poseidón - Bottom"/></div>
 
 </div>
 
 ------
 Proyecto: Microcontroladores Semana 1 – Poseidón
 
-Última edición: 2024
+Última edición: 2026
