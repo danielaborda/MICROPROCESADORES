@@ -4,36 +4,7 @@
 
 <div align="center">
 
-<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .wave { fill: none; stroke: #378ADD; stroke-width: 1.5; stroke-linecap: round; }
-    .trident-body { stroke: #BA7517; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; fill: none; }
-    .gem { fill: #EF9F27; }
-    .team-text { fill: #BA7517; font-family: Georgia, serif; font-size: 13px; letter-spacing: 5px; font-weight: 500; }
-    .dot { fill: #378ADD; }
-  </style>
-  <path class="wave" d="M40,100 Q70,85 100,100 Q130,115 160,100 Q190,85 220,100" opacity="0.5"/>
-  <path class="wave" d="M40,115 Q70,100 100,115 Q130,130 160,115 Q190,100 220,115" opacity="0.3"/>
-  <path class="wave" d="M460,100 Q490,85 520,100 Q550,115 580,100 Q610,85 640,100" opacity="0.5"/>
-  <path class="wave" d="M460,115 Q490,100 520,115 Q550,130 580,115 Q610,100 640,115" opacity="0.3"/>
-  <line class="trident-body" x1="340" y1="58" x2="340" y2="135"/>
-  <line class="trident-body" x1="340" y1="20" x2="340" y2="58"/>
-  <polygon class="gem" points="340,12 334,24 340,22 346,24"/>
-  <line class="trident-body" x1="310" y1="35" x2="310" y2="68"/>
-  <polygon class="gem" points="310,27 304,39 310,37 316,39"/>
-  <line class="trident-body" x1="370" y1="35" x2="370" y2="68"/>
-  <polygon class="gem" points="370,27 364,39 370,37 376,39"/>
-  <line class="trident-body" x1="310" y1="68" x2="370" y2="68"/>
-  <line class="trident-body" x1="328" y1="128" x2="352" y2="128"/>
-  <line class="trident-body" x1="324" y1="135" x2="356" y2="135"/>
-  <circle class="dot" cx="260" cy="105" r="2.5" opacity="0.6"/>
-  <circle class="dot" cx="275" cy="118" r="2" opacity="0.4"/>
-  <circle class="dot" cx="245" cy="118" r="2" opacity="0.4"/>
-  <circle class="dot" cx="420" cy="105" r="2.5" opacity="0.6"/>
-  <circle class="dot" cx="405" cy="118" r="2" opacity="0.4"/>
-  <circle class="dot" cx="435" cy="118" r="2" opacity="0.4"/>
-  <text x="340" y="152" text-anchor="middle" class="team-text">P O S E I D Ó N</text>
-</svg>
+<div align="center"><img src="https://e7.pngegg.com/pngimages/745/927/png-clipart-trident-of-poseidon-trident-of-poseidon-zeus-greek-mythology-others-blue-computer-wallpaper.png" width="120" alt="Tridente Poseidón - Top"/></div>
 
 <details>
 <summary>Abrir perfil del proyecto</summary>
@@ -153,36 +124,7 @@
 
 </details>
 
-<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .wave2 { fill: none; stroke: #378ADD; stroke-width: 1.5; stroke-linecap: round; }
-    .trident-body2 { stroke: #BA7517; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; fill: none; }
-    .gem2 { fill: #EF9F27; }
-    .team-text2 { fill: #BA7517; font-family: Georgia, serif; font-size: 13px; letter-spacing: 5px; font-weight: 500; }
-    .dot2 { fill: #378ADD; }
-  </style>
-  <path class="wave2" d="M40,45 Q70,30 100,45 Q130,60 160,45 Q190,30 220,45" opacity="0.3"/>
-  <path class="wave2" d="M40,60 Q70,45 100,60 Q130,75 160,60 Q190,45 220,60" opacity="0.5"/>
-  <path class="wave2" d="M460,45 Q490,30 520,45 Q550,60 580,45 Q610,30 640,45" opacity="0.3"/>
-  <path class="wave2" d="M460,60 Q490,45 520,60 Q550,75 580,60 Q610,45 640,60" opacity="0.5"/>
-  <text x="340" y="22" text-anchor="middle" class="team-text2">P O S E I D Ó N</text>
-  <line class="trident-body2" x1="340" y1="30" x2="340" y2="107"/>
-  <line class="trident-body2" x1="340" y1="107" x2="340" y2="145"/>
-  <polygon class="gem2" points="340,153 334,141 340,143 346,141"/>
-  <line class="trident-body2" x1="310" y1="97" x2="310" y2="130"/>
-  <polygon class="gem2" points="310,138 304,126 310,128 316,126"/>
-  <line class="trident-body2" x1="370" y1="97" x2="370" y2="130"/>
-  <polygon class="gem2" points="370,138 364,126 370,128 376,126"/>
-  <line class="trident-body2" x1="310" y1="97" x2="370" y2="97"/>
-  <line class="trident-body2" x1="328" y1="37" x2="352" y2="37"/>
-  <line class="trident-body2" x1="324" y1="30" x2="356" y2="30"/>
-  <circle class="dot2" cx="260" cy="55" r="2.5" opacity="0.6"/>
-  <circle class="dot2" cx="275" cy="42" r="2" opacity="0.4"/>
-  <circle class="dot2" cx="245" cy="42" r="2" opacity="0.4"/>
-  <circle class="dot2" cx="420" cy="55" r="2.5" opacity="0.6"/>
-  <circle class="dot2" cx="405" cy="42" r="2" opacity="0.4"/>
-  <circle class="dot2" cx="435" cy="42" r="2" opacity="0.4"/>
-</svg>
+<div align="center"><img src="https://e7.pngegg.com/pngimages/745/927/png-clipart-trident-of-poseidon-trident-of-poseidon-zeus-greek-mythology-others-blue-computer-wallpaper.png" width="120" style="transform:rotate(180deg)" alt="Tridente Poseidón - Bottom"/></div>
 
 </div>
 
