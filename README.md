@@ -102,7 +102,7 @@
     - `PRACTICA_1.2.X.production.hex`
 
    ### Práctica 2
-     - **Clase → Formar una "X" con la matriz LED**
+    - **Clase → Formar una "X" con la matriz LED**
     - `practicauno.pdsprj`
     - `main.c`
     - `PRACTICA1.X.production.hex`
@@ -123,14 +123,6 @@
   </p>
 </details>
 
-<details>
-  <summary>Quote</summary>
-  <br>
-  <blockquote>
-    "Un bug nunca es solo un error. Representa algo más grande. Un error de pensamiento."
-    <br><strong>Mr. Robot – Elliot Alderson</strong>
-  </blockquote>
-</details>
 
 </details>
 
@@ -141,4 +133,4 @@
 ------
 Proyecto: Microcontroladores Semana 1 – Poseidón
 
-Última edición: 2024
+Última edición: 2026 - en actualización
