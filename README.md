@@ -28,20 +28,15 @@
 
 ```js
 /**
- * Representa el proyecto de Microcontroladores - Semana 1.
+ * Microcontroladores - Semana 1.
  *
  * @constructor
- * @param {string} proyecto     - Poseidón.
- * @param {string} materia      - Microcontroladores.
- * @param {string} semana       - Semana 1.
- * @param {string} herramientas - MPLAB X IDE, Proteus 8.
- * @param {string} micro        - PIC16F887.
- * @param {string} contenido    - Simulaciones, código C, archivos .hex e imágenes.
- * @param {string} practicas    - 3 prácticas (Clase + Reto).
+ * @param {string} Proyecto     - Poseidón.
+ * @param {string} Materia      - Microprocesadores.
+ * @param {string} Herramientas - MPLAB X IDE, Proteus 8.
+ * @param {string} Contenido    - Simulaciones, código C, archivos .hex e imágenes.
+ * @param {string} Practicas    - 3 prácticas (Clase + Reto).
  *
- * @throws {Error} Si el microcontrolador no está bien configurado.
- *
- * @returns {Object} Proyecto Poseidón.
  */
 ```
 
@@ -105,6 +100,18 @@
     - `practicaunopuntodos.pdsprj`
     - `maintres.c`
     - `PRACTICA_1.2.X.production.hex`
+
+   ### Práctica 2
+     - **Clase → Formar una "X" con la matriz LED**
+    - `practicauno.pdsprj`
+    - `main.c`
+    - `PRACTICA1.X.production.hex`
+  - **Reto 1 → Contador de 6 bits**
+    - `practicaunopuntouno.pdsprj`
+    - `maindos.c`
+    - `PRACTICA_1.1.X.production.hex`
+
+  ### Práctica 3
 
 </details>
 
